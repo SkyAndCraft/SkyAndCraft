@@ -62,4 +62,4 @@ J’aime travailler avec des personnes qui veulent :
 
 ## ⚡ Fun fact
 
-Je peux passer 3 heures à optimiser une regex juste pour qu’elle soit élégante, robuste et future-proof.
+Je peux passer 3 heures à optimiser une fonction juste pour qu’elle soit élégante, robuste et future-proof.

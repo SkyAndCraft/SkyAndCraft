@@ -19,7 +19,7 @@
 
 ## 🧠 Mes compétences
 
-- **Langages :** C#, Lua, Shell, JSON, Regex  
+- **Langages :** C#, Lua, JSON  
 - **Serveurs & DevOps :** optimisation, monitoring, pipelines, logs  
 - **UI/UX :** palettes cohérentes, interfaces immersives, ergonomie pour RP  
 - **Systèmes :** shops dynamiques, hiérarchies de grades, modules extensibles  
@@ -56,8 +56,7 @@ J’aime travailler avec des personnes qui veulent :
 
 ## 📫 Me contacter
 
-- **Discord :** `tonTagDiscordIci`  
-- **Mail :** `ton.email@exemple.com` *(optionnel)*  
+- **Mail :** `skyandcraft@estelia.fr` *(optionnel)*  
 
 ---
 
